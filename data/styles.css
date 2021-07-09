@@ -45,14 +45,30 @@
 .paragraph {
   text-align:left;
 }
+._文本链接 {
+  color:#0000FF;
+}
 .flow_shape {
 }
 .box_1 {
 }
+.image {
+  color:#000000;
+}
+.text_link {
+  color:#0000FF;
+}
+.text_link_mouse_over {
+}
+.text_link_mouse_down {
+}
+.html_button {
+  text-align:center;
+}
 .link_button {
   color:#169BD5;
 }
-.image {
+.image1 {
 }
 .label {
   font-size:14px;
